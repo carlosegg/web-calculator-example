@@ -1124,8 +1124,8 @@
       <sonar.jacoco.reportPath>${project.build.directory}/reports/jacoco/jacoco-ut.exec</sonar.jacoco.reportPath>
       <sonar.jacoco.itReportPath>${project.build.directory}/reports/jacoco/jacoco-it.jacoco</sonar.jacoco.itReportPath>
       <jacoco.arguments>-javaagent:${settings.localRepository}/org/jacoco/org.jacoco.agent/${jacoco.agent.version}/org.jacoco.agent-${jacoco.agent.version}-runtime.jar=destfile=</jacoco.arguments>
-      <seleniumserver.version>2.46.0</seleniumserver.version>
-      <tomcat.version>8.0.24</tomcat.version>
+      <seleniumserver.version>2.48.0</seleniumserver.version>
+      <tomcat.version>8.0.28</tomcat.version>
       <tomcat.major.version>8</tomcat.major.version>
       <copyright.year>2015</copyright.year>
       <junit.version>4.10</junit.version>
